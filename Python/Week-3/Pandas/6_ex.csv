@@ -1,0 +1,59 @@
+SL no,Train no ,Name of Trains ,Off-day ,Starting station ,Departure Time ,Arrival Station,Arrival time 
+1,701,Subarna Express ,Friday ,Chittagong ,7:00,Dhaka ,
+2,702,Subarna Express ,Friday ,,15:00,Chittagong ,20:30
+3,703,Mohanagar Goduli ,,Chittagong ,15:00,Dhaka ,
+4,704,Mohanagar Provati ,,Dhaka ,7:45,Chittagong ,14:55
+5,705,Ekota Express ,Tuesday ,Dhaka ,10:00,Dinajpur ,19:45
+6,706,Ekota Express ,Monday ,,21:20,Dhaka ,7:10
+7,707,Tista Express ,Monday ,Dhaka ,7:30,Dewangong ,12:45
+8,708,Tista Express ,Monday ,Dewangong ,15:00,Dhaka ,20:45
+9,709,Parabat Express ,Tuesday ,Dhaka ,6:35,Sylhet ,13:40
+10,710,Parabat Express ,Tuesday ,Sylhet ,15:00,Dhaka ,22:25
+11,711,Upukol Express ,Wednesday ,Noakhali ,6:00,Dhaka ,12:30
+12,712,Upukol Express ,Tuesday ,Dhaka ,15:20,Noakhali ,21:40
+13,713,Karutoa Express ,No ,Santahar ,16:25,Borimari ,22:30
+14,714,Karutoa Express ,No ,Borimari ,17:00,Santahar ,23:10
+15,717,Joyantika Express ,No ,Dhaka ,12:00,Sylhet ,19:45
+16,718,Joyantika Express ,Thursday ,Sylhet ,8:40,Dhaka ,16:20
+17,719,Paharika Express ,Monday ,Chittagong ,8:45,Sylhet ,18:00
+18,720,Paharika Express ,Saturday ,Sylhet ,10:15,Chittagong ,20:05
+19,721,Mohanagar Express ,Sunday ,Chittagong ,12:30,Dhaka ,19:30
+20,722,Mohanagar Express ,Sunday ,Dhaka ,21:00,Chittagong ,5:00
+21,723,Uddayan Express ,Saturday ,Chittagong ,21:45,Sylhet ,6:55
+22,724,Uddayan Express ,Sunday ,Sylhet ,21:20,Chittagong ,6:35
+23,729,Meghna Express ,No ,Chittagong ,17:15,Chandpur ,22:00
+24,730,Meghna Express ,No ,Chandpur ,5:00,Chittagong ,10:00
+25,735,Agnibina Express ,No ,Dhaka ,9:40,Tarakandi ,15:20
+26,736,Agnibina Express ,No ,Tarakandi ,16:30,Dhaka ,23:00
+27,737,Egarosindhur Provati ,Wednesday ,Dhaka ,7:15,Kisoregonj ,11:15
+28,738,Egarosindhur Provati ,No ,Kisoregonj ,6:45,Dhaka ,10:45
+29,739,Upaban Express ,Wednesday ,Dhaka ,21:50,Sylhet ,5:30
+30,740,Upaban Express ,No ,Sylhet ,22:00,Dhaka ,5:25
+31,741,Turna Express ,No ,Chittagong ,23:00,Dhaka ,6:30
+32,742,Turna Express ,No ,Dhaka ,23:30,Chittagong ,7:10
+33,743,Bharamaputra ,No ,Dhaka ,18:00,Dewangong ,0:20
+34,744,Bharamaputra ,No ,Dewangong ,6:30,Dhaka ,12:50
+35,745,Jamuna Express ,No ,Dhaka ,16:40,B.B. East ,0:20
+36,746,Jamuna Express ,No ,B.B. East ,1:10,Dhaka ,8:00
+37,749,Egarosindhur Goduli ,No ,Dhaka ,18:30,Kisoregonj ,22:45
+38,750,Egarosindhur Goduli ,Wednesday ,Kisoregonj ,12:30,Dhaka ,16:45
+39,751,Lalmoni Express ,Friday ,Dhaka ,22:10,Lalmonirhat ,8:20
+40,752,Lalmoni Express ,Friday ,Lalmonirhat ,10:40,Dhaka ,21:05
+41,757,Drutojan Express ,Wednesday ,Dhaka ,19:40,Dinajpur ,5:30
+42,758,Drutojan Express ,Wednesday ,Dinajpur ,7:40,Dhaka ,17:55
+43,767,Dolonchapa Express ,No ,Santahar ,13:30,Dinajpur ,20:30
+44,768,Dolonchapa Express ,No ,Dinajpur ,5:40,Santahar ,12:20
+45,771,Rangpur Express ,Sunday ,Dhaka ,9:00,Rangpur ,19:00
+46,772,Rangpur Express ,Sunday ,Rangpur ,20:00,Dhaka ,6:05
+47,773,Kalani Express ,Friday ,Dhaka ,16:00,Sylhet ,22:45
+48,774,Kalani Express ,Friday ,Sylhet ,7:00,Dhaka ,14:10
+49,777,Haor Express ,Wednesday ,Dhaka ,23:50,Mohangonj ,6:10
+50,778,Haor Express ,Thursday ,Mohangonj ,8:30,Dhaka ,15:00
+51,781,Kishorgonj Express ,Friday ,Dhaka ,10:20,Kishorgonj ,14:15
+52,782,Kishorgonj Express ,Friday ,Kishorgonj ,14:40,Dhaka ,18:50
+53,785,Bijoy Express ,Wednesday ,Chittagong ,7:20,Mymensingh ,16:45
+54,785,Bijoy Express ,Tuesday ,Mymensingh ,20:00,Chittagong ,5:30
+55,787,Sonar Bangla Express ,Saturday ,Chittagong ,17:00,Dhaka ,22:40
+56,788,Sonar Bangla Express ,Saturday ,Dhaka ,7:00,Chittagong ,12:40
+57,789,Mohangonj Express ,Monday ,Dhaka ,12:20,Mohangonj ,18:50
+58,790,Mohangonj Express ,Monday ,Mohangonj ,22:00,Dhaka ,4:30
