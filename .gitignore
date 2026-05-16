@@ -1,0 +1,95 @@
+# ==========================================
+# 🔐 Environment Variables & Secrets (CRITICAL)
+# ==========================================
+# Never commit your database passwords, API keys, or credentials!
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+config.json
+credentials.json
+
+# ==========================================
+# 🐘 Databases (PostgreSQL / MySQL)
+# ==========================================
+# Ignore local database dumps, data directories, and SQLite files
+*.sql.gz
+*.dump
+*.tar
+.data/
+postgres-data/
+mysql-data/
+*.db
+*.sqlite3
+
+# ==========================================
+# ⚙️ Operating System Junk
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ==========================================
+# 🛠️ IDEs and Editors
+# ==========================================
+# VS Code, JetBrains, and Vim configurations
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# ==========================================
+# 🟢 Node.js / JavaScript (If you use Node for DB connection scripts)
+# ==========================================
+node_modules/
+/jspm_packages/
+.npm
+.eslintcache
+.stylelintcache
+.node_repl_history
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ==========================================
+# 🐍 Python (If you use Python/Psycopg for scripts)
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+ENV/
+.env/
+.venv/
+
+# ==========================================
+# ☕ Java / Compilers (Just in case)
+# ==========================================
+*.class
+*.log
+*.jar
+*.war
+target/
+
+# ==========================================
+# 📦 Docker
+# ==========================================
+# If you run PostgreSQL inside a Docker container
+.docker/
+
+# ==========================================
+# Custom
+# ==========================================
+readme-x/
