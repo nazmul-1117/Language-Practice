@@ -1,4 +1,4 @@
-4# PostgresQL
+# PostgreSQL
 ## Day 01
 
 ## Day 02
