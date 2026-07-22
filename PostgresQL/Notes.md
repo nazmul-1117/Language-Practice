@@ -1,4 +1,4 @@
-yupএx# PostgreSQL
+yupএ# PostgreSQL
 ## Day 01
 
 ## Day 02
