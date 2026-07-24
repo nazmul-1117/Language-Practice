@@ -45,6 +45,6 @@ yup# PostgreSQL
 
 ## Day 23
 
-##
+## Day 24
 
 ---
