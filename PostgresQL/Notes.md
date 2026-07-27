@@ -1,4 +1,4 @@
-u# PostgreSQL
+# PostgreSQL
 ## Day 01
 
 ## Day 02
