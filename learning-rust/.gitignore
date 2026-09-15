@@ -1,0 +1,109 @@
+# ==================================
+# Rust / Cargo
+# ==================================
+
+# Cargo build directory
+target/
+
+# Cargo lock file
+# Keep Cargo.lock for applications and learning projects
+# Uncomment only if creating libraries
+# Cargo.lock
+
+
+# ==================================
+# Rust Analyzer / IDE
+# ==================================
+
+# Rust Analyzer cache
+.rust-analyzer/
+
+# VS Code settings
+.vscode/
+
+# IntelliJ Rust plugin
+.idea/
+
+# Eclipse
+.project
+.classpath
+
+
+# ==================================
+# Operating System Files
+# ==================================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+
+# ==================================
+# Environment Variables
+# ==================================
+
+.env
+.env.*
+
+# Local configuration
+config.local.toml
+
+
+# ==================================
+# Logs
+# ==================================
+
+*.log
+
+
+# ==================================
+# Temporary Files
+# ==================================
+
+*.tmp
+*.temp
+*.swp
+*.swo
+
+
+# ==================================
+# Rust Documentation Output
+# ==================================
+
+doc/
+
+
+# ==================================
+# Benchmark / Profiling Output
+# ==================================
+
+criterion/
+
+
+# ==================================
+# Coverage Reports
+# ==================================
+
+coverage/
+*.profraw
+
+
+# ==================================
+# Generated Files
+# ==================================
+
+*.generated.rs
+
+
+# ==================================
+# Backup Files
+# ==================================
+
+*.bak
+*.old
