@@ -945,3 +945,5 @@ It should be:
 > **"I can open a moderately large C++ project and understand what the code is doing, why it is designed that way, and debug/change it myself."**
 
 That is the point where you're genuinely ready to move into **C++ networking and then Unreal Engine**.
+
+_by Nazmul
